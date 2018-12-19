@@ -1,0 +1,25 @@
+{
+  "name": "sundry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "fastify": "^1.13.2",
+    "fastify-static": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limeandcoconut/sundry.git"
+  },
+  "author": "Jacob Smith <messagethesmith@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limeandcoconut/sundry/issues"
+  },
+  "homepage": "https://github.com/limeandcoconut/sundry#readme"
+}
